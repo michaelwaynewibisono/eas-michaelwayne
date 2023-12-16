@@ -22,7 +22,7 @@
 
 ![alt text](https://github.com/michaelwaynewibisono/eas-pweb/blob/main/images/4.png?raw=true)
 
-### Update Status
+### Updating Status
 
 ![alt text](https://github.com/michaelwaynewibisono/eas-pweb/blob/main/images/5.png?raw=true)
 
