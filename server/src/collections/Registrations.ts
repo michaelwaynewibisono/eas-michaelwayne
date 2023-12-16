@@ -23,6 +23,7 @@ const Registrations: CollectionConfig = {
       name: "email",
       type: "text",
       required: true,
+      unique: true,
     },
     {
       name: "sekolah",
